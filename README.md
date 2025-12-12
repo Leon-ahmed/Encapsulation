@@ -1,9 +1,9 @@
-# Encapsulation
+# Encapsulation Example
 
 
 
 
-## BankAccount Encapsulation Example
+  
 
 This program demonstrates the concept of encapsulation in Java using a simple BankAccount class. It shows how private fields are protected and accessed through methods instead of directly.
 
