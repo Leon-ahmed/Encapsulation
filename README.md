@@ -1,17 +1,15 @@
 # Encapsulation
-BankAccount Encapsulation Example
+##BankAccount Encapsulation Example
 
 This project demonstrates the concept of encapsulation in Java using a simple BankAccount class. It shows how private fields are protected and accessed through methods instead of directly.
 
-Features
+Features:
 
-Stores account number, account holder name, and balance
+1) Stores account number, account holder name, and balance
 
-Validates balance to prevent negative values
+2) Validates balance to prevent negative values
 
-Getter methods for accessing private data
-
-Creates multiple account objects and prints their details
+3) Getter methods for accessing private data
 
 Code Overview
 
