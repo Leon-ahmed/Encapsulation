@@ -5,7 +5,7 @@
 
 ## BankAccount Encapsulation Example
 
-This project demonstrates the concept of encapsulation in Java using a simple BankAccount class. It shows how private fields are protected and accessed through methods instead of directly.
+This program demonstrates the concept of encapsulation in Java using a simple BankAccount class. It shows how private fields are protected and accessed through methods instead of directly.
 
 ### Features
 
